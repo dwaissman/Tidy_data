@@ -75,3 +75,6 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
       - 67	fBodyBodyGyroJerkMag-mean()	Fast Furier Body gyro jerk mag mean in HZ.
       - 68	fBodyBodyGyroJerkMag-std()	Fast Furier Body gyro jerk mag std in HZ.
 
+Source:
+Jorge L. Reyes-Ortiz(1,2), Davide Anguita(1), Alessandro Ghio(1), Luca Oneto(1) and Xavier Parra(2)
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
