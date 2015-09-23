@@ -16,11 +16,11 @@ This script will:
 Other downloaded files include:
 - README.txt: general organization of the datasets.
 - features_info.txt: general organization of the data.
-- features_info.txt: codebook.
+- features.txt: codebook.
 - activity_labels.txt: description of activities
 
 Result:
-- tidy_data.txt 
+- tidy_data.txt: Text file containing summarized data by subject and activity. 
 
 A Codebook (CodeBook.md) for the tidy data is also included in this repository.
 
