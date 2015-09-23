@@ -23,7 +23,7 @@ Other downloaded files include:
 Result:
 - tidy_data.txt 
 
-A Codebook (CodeBook.md) for the tidy data is also included.
+A Codebook (CodeBook.md) for the tidy data is also included in this repository.
 
 
 
