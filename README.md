@@ -1,5 +1,4 @@
-# Tidy_data
-## Course Project for Getting and Cleaning Data
+# Course Project for Getting and Cleaning Data
 
 ### A tidy dataset from the data collected from the Samsung Galaxy S smartphone
 
