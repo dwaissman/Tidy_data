@@ -25,7 +25,7 @@ Result:
 
 A Codebook (CodeBook.md) for the tidy data is also included.
 
-A [codebook for the final tidy data](CodeBook.md) in Markdown format
+
 
 
 
