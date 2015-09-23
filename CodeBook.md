@@ -10,24 +10,24 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
       - 2	Activity:		String for type of activity represented, possible values: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
       - 3   tBodyAcc-mean()-X:	Triaxial Body acceleration mean for X axis in HZ.	
       - 4	tBodyAcc-mean()-Y:	Triaxial Body acceleration mean for Y axis in HZ.		
-5	tBodyAcc-mean()-Z	Triaxial Body acceleration mean for Z axis in HZ.	
-6	tBodyAcc-std()-X	Triaxial Body acceleration std dev for X axis in HZ.	
-7	tBodyAcc-std()-Y	Triaxial Body acceleration std dev for Y axis in HZ.	
-8	tBodyAcc-std()-Z	Triaxial Body acceleration std dev for Z axis in HZ.	
-9	tGravityAcc-mean()-X	Triaxial Gravity acceleration mean for X axis in HZ.	
-10	tGravityAcc-mean()-Y	Triaxial Gravity acceleration mean for Y axis in HZ.	
-11	tGravityAcc-mean()-Z	Triaxial Gravity acceleration mean for Z axis in HZ.	
-12	tGravityAcc-std()-X	Triaxial Gravity acceleration std dev for X axis in HZ.	
-13	tGravityAcc-std()-Y	Triaxial Gravity acceleration std dev for Y axis in HZ.	
-14	tGravityAcc-std()-Z	Triaxial Gravity acceleration std dev for Z axis in HZ.	
-15	tBodyAccJerk-mean()-X	Triaxial Body acceleration jerk mean for X axis in HZ.	
-16	tBodyAccJerk-mean()-Y	Triaxial Body acceleration jerk mean for Y axis in HZ.	
-17	tBodyAccJerk-mean()-Z	Triaxial Body acceleration jerk mean for Z axis in HZ.	
-18      tBodyAccJerk-std()-X	Triaxial Body acceleration jerk std dev for X axis in HZ.	   
-19	tBodyAccJerk-std()-Y	Triaxial Body acceleration jerk std dev for Y axis in HZ.	
-20	tBodyAccJerk-std()-Z	Triaxial Body acceleration jerk std dev for Z axis in HZ.
-21	tBodyGyro-mean()-X	Triaxial Body Gyro mean for X axis in HZ.
-22	tBodyGyro-mean()-Y	Triaxial Body Gyro mean for Y axis in HZ.
+      - 5	tBodyAcc-mean()-Z	Triaxial Body acceleration mean for Z axis in HZ.	
+      - 6	tBodyAcc-std()-X	Triaxial Body acceleration std dev for X axis in HZ.	
+      - 7	tBodyAcc-std()-Y	Triaxial Body acceleration std dev for Y axis in HZ.	
+      - 8	tBodyAcc-std()-Z	Triaxial Body acceleration std dev for Z axis in HZ.	
+      - 9	tGravityAcc-mean()-X	Triaxial Gravity acceleration mean for X axis in HZ.	
+      - 10	tGravityAcc-mean()-Y	Triaxial Gravity acceleration mean for Y axis in HZ.	
+      - 11	tGravityAcc-mean()-Z	Triaxial Gravity acceleration mean for Z axis in HZ.	
+      - 12  tGravityAcc-std()-X	Triaxial Gravity acceleration std dev for X axis in HZ.	
+      - 13	tGravityAcc-std()-Y	Triaxial Gravity acceleration std dev for Y axis in HZ.	
+      - 14	tGravityAcc-std()-Z	Triaxial Gravity acceleration std dev for Z axis in HZ.	
+      - 15	tBodyAccJerk-mean()-X	Triaxial Body acceleration jerk mean for X axis in HZ.	
+      - 16	tBodyAccJerk-mean()-Y	Triaxial Body acceleration jerk mean for Y axis in HZ.	
+      - 17	tBodyAccJerk-mean()-Z	Triaxial Body acceleration jerk mean for Z axis in HZ.	
+      - 18      tBodyAccJerk-std()-X	Triaxial Body acceleration jerk std dev for X axis in HZ.	   
+      - 19	tBodyAccJerk-std()-Y	Triaxial Body acceleration jerk std dev for Y axis in HZ.	
+      - 20	tBodyAccJerk-std()-Z	Triaxial Body acceleration jerk std dev for Z axis in HZ.
+      - 21	tBodyGyro-mean()-X	Triaxial Body Gyro mean for X axis in HZ.
+      - 22	tBodyGyro-mean()-Y	Triaxial Body Gyro mean for Y axis in HZ.
 23	tBodyGyro-mean()-Z	Triaxial Body Gyro mean for Z axis in HZ.
 24	tBodyGyro-std()-X	Triaxial Body Gyro std dev for X axis in HZ.
 25	tBodyGyro-std()-Y	Triaxial Body Gyro std dev for Y axis in HZ.
