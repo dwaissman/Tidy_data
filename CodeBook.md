@@ -5,6 +5,8 @@ The experiments were carried out with a group of 30 volunteers within an age bra
 
 The sensor signals (accelerometer and gyroscope) were pre-processed by applying noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50% overlap (128 readings/window). The sensor acceleration signal, which has gravitational and body motion components, was separated using a Butterworth low-pass filter into body acceleration and gravity. The gravitational force is assumed to have only low frequency components, therefore a filter with 0.3 Hz cutoff frequency was used. From each window, a vector of features was obtained by calculating variables from the time and frequency domain.
 
+Mean and standard deviation measures were averaged by subject and activity.
+
 ### 2. Variables for tidy data set
       - 1	Subject:		Numeric representing the volunteer who tested the phone. Possible values 1:30.
       - 2	Activity:		String for type of activity represented, possible values: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
@@ -14,12 +16,12 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
       - 6	tBodyAcc-std()-X	Triaxial Body acceleration std dev for X axis in HZ.	
       - 7	tBodyAcc-std()-Y	Triaxial Body acceleration std dev for Y axis in HZ.	
       - 8	tBodyAcc-std()-Z	Triaxial Body acceleration std dev for Z axis in HZ.	
-      - 9	tGravityAcc-mean()-X	Triaxial Gravity acceleration mean for X axis in HZ.	
-      - 10	tGravityAcc-mean()-Y	Triaxial Gravity acceleration mean for Y axis in HZ.	
-      - 11	tGravityAcc-mean()-Z	Triaxial Gravity acceleration mean for Z axis in HZ.	
-      - 12  tGravityAcc-std()-X	Triaxial Gravity acceleration std dev for X axis in HZ.	
-      - 13	tGravityAcc-std()-Y	Triaxial Gravity acceleration std dev for Y axis in HZ.	
-      - 14	tGravityAcc-std()-Z	Triaxial Gravity acceleration std dev for Z axis in HZ.	
+      - 9	tGravityAcc-mean()-X	Triaxial Gravity acceleration mean for X axis in gravity units.
+      - 10	tGravityAcc-mean()-Y	Triaxial Gravity acceleration mean for Y axis in gravity units..	
+      - 11	tGravityAcc-mean()-Z	Triaxial Gravity acceleration mean for Z axis in gravity units.	
+      - 12  tGravityAcc-std()-X	Triaxial Gravity acceleration std dev for X axis in gravity units.	
+      - 13	tGravityAcc-std()-Y	Triaxial Gravity acceleration std dev for Y axis in gravity units.	
+      - 14	tGravityAcc-std()-Z	Triaxial Gravity acceleration std dev for Z axis in gravity units.	
       - 15	tBodyAccJerk-mean()-X	Triaxial Body acceleration jerk mean for X axis in HZ.	
       - 16	tBodyAccJerk-mean()-Y	Triaxial Body acceleration jerk mean for Y axis in HZ.	
       - 17	tBodyAccJerk-mean()-Z	Triaxial Body acceleration jerk mean for Z axis in HZ.	
